@@ -13,7 +13,57 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `Letter 5 for his bday 🫶🏻❤️ (THE BEGINING 🥹🧿)
+  const message = `Letter 1 for his bday 🥹🫶🏻
+
+Happy 21st birthday, Tanish 💫
+It feels crazy saying twenty-one out loud because somehow, you still feel like that same boy who laughs at random things, argues over silly stuff, and yet knows exactly how to calm everything down. But today isn’t just another day, it’s your day the one that reminds me how lucky I am to know someone like you. I hope this year brings you the kind of peace that stays, the kind of happiness that feels real, and the kind of success that makes you proud of the person you’ve become. You’ve got this rare mix of strength and softness that’s hard to find, and I hope the world never changes that about you.
+
+I don’t say this much, but you genuinely deserve every bit of good coming your way. You’ve been through things quietly, handled people calmly, and still kept that same heart. So I wish this year gives you moments that make you feel seen, loved, and appreciated because you deserve that and more. I hope 21 is kind to you  full of loud laughs, small victories, late-night talks, and people who make you feel at home. And if you ever feel lost, I hope you remember this I’ll always be somewhere cheering for you, proud, and quietly thankful that I got to know you in this lifetime. Loveee youuu bubuuuuu🥹🫶🏻🫶🏻 and once again happy 21st birthday 🥳🥳❤️❤️🫶🏻
+
+Letter 2 for his bday 🫶🏻🥹❤️
+
+
+It’s funny how someone can enter your life so randomly and end up being so meaningful. You,  are that unexpected chaos that I weirdly started liking, the kind that doesn’t hurt, the kind that makes life feel a little more alive. Sometimes I think about our random talks, our stupid arguments, our little silences and realize how much they’ve become a part of my daily peace. You don’t even try, but somehow, you manage to make things lighter, even when everything feels heavy. That’s your magic, and I hope you know it.
+
+You’re 21 now but please, don’t rush to be all grown-up. Keep that same energy, that teasing tone, that soft heart hidden behind your overconfident replies. Life’s too short to act serious all the time. Laugh louder, fall harder, and live wilder  because you deserve a life that feels real, not perfect. And just in case you forget , I’ll be here, always cheering from the side, lowkey proud of the person you’re becoming, and still teasing you like I always do. Haa haa coz yehi to mera kamm hai tume satanaa😁😂 me to sataungiiii hi tum kuch bhi soch looo..😁 asach nehamii hasat rahaaa Khush rahhaa bakki ajun kahi noko malaa 🥺❤️ lovee youuuu....🥹
+
+Letter 3 for his bdayy 🫶🏻❤️
+
+Every letter I write for your birthday feels like a quiet countdown... not to a date, but to a feeling  the feeling of celebrating you🥹❤️
+And today's letter is a little special, because the closer your birthday comes, the more my words get pulled toward you.
+It's been so many years... so many stories... so many phases... but still, when your birthday comes, I genuinely feel like I'm preparing for something more than just a day.
+I'm preparing for that one day that reminds me that the world became better the moment you arrived even if you never accept it.
+I don't know if you'll ever understand this, but your birthday makes me weirdly happy.
+Maybe because it's the one day where I don't have to hide how important you are.
+It's the one day where my excitement refuses to stay quiet.
+It's the one day where I get to celebrate your existence, without overthinking, without fear, without holding back.
+And this happiness will be forever,  not only this time but , jab tak me jinda hu fs .... 🥹🫶🏻
+
+Letter 4 for his bday 🥹❤️
+
+Every time I sit to write another letter for you, I realise kitna kuch hai jo shayad main bol hi nahi paati. Maybe that's why these letters matters they let me say the things I usually keep inside.
+There are so many small things about you that my heart has quietly learnt to hold on to. The way you talk, the way you listen, the way you get irritated but still show up when it really matters… it all stays with me.
+I don’t know when exactly it happened,
+but somewhere between our silly talks and serious moments,
+you became someone I look for even when I pretend I don’t.
+You know what’s strange?
+You affect me in ways even you don’t understand.
+Aapki ek line kabhi pura din bigaad sakti hai,
+aur ek simple si baat pura din bana bhi sakti hai 🥺
+And I don’t think you realise this…
+but your presence changes the way my heart beats, even on the days we don’t talk properly.
+I’m not writing this letter to sound filmy or dramatic.
+I’m writing it because at the end of the day,
+you matter to me ,more than I admit and more than you probably believe.❤️
+You’ve taught me patience,
+you’ve taught me understanding,
+and you’ve also taught me that caring for someone is not always loud…
+sometimes it’s just choosing them silently, again and again.I don’t know how the rest of our story will look,but I do know this you’ve become a part of me in ways that no one else ever has.🥹🫶🏻And maybe that’s exactly why I’m writing 21 letters for you…because aap jaisa koi life mein baar-baar nahi milta.
+a reminder that even on the days when we are confused, tired, or lost…
+a part of my heart is still holding your name a little too tightly.
+Soo once again  HAPPY BIRTHDAY BUBuuuu....🥹🫶🏻❤️
+  
+Letter 5 for his bday 🫶🏻❤️ (THE BEGINING 🥹🧿)
 
 Heyy bubuuu🥹Sometimes I sit and think about how everything started between us… and honestly, it still feels a little unreal🥹. Our beginning wasn’t dramatic, not movie-type or overly romantic. It was simple… very simple . it wass just an I contact and taych ekka i contact  madhee mala maza friend, lover and maza sarva kahi mala bhetun gele 🥹🧿
 You came into my life so softly like someone who just walks in without making any noise, but still changes the whole vibe .Mala kadhich navta vatala ki assa achaanak mala tu bhetshill coz adhi pasunnach mi introvert hoti tayt kontay porashi kadhich nay bolli tu mazay life madla 2nd porga ahes jaychayshi mi bolli assa noko samju ki koni dusra hota tuzay adhi 🤣 the 1st one was my childhood frnd.. idk taydivshi tula bagun mazay madhe kay zala ki mi direct unnati la bolli ki hach porga pahije mala yacha insta id shoudun kad 🤣 and haa 1st of all navv pan coz mala tar tuza nav pan navta mahiti 🥲 and then this was the biggest moment that changed everything.and on 16dec 2020 i came into your life, your biggest trouble 😂🥲and then we started talking, small conversations… your calm tone… that easy feeling around you. And slowly-slowly, before I even realised, you became a little important to me.
@@ -474,3 +524,4 @@ May every step you take be protected.May every dream you hold find its way.May t
 }
 
 export default MessageCard;
+
